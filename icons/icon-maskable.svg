@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Maskable: full bleed background, safe zone inset -->
+  <rect width="512" height="512" fill="#0F1B2D"/>
+  <text x="256" y="280" font-size="140" font-weight="bold" text-anchor="middle" fill="#4BC4B8" font-family="system-ui,sans-serif">W</text>
+  <rect x="156" y="320" width="200" height="12" rx="6" fill="#FFC84D"/>
+</svg>

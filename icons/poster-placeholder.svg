@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="270" viewBox="0 0 180 270">
+  <rect width="180" height="270" rx="8" fill="#0F1B2D"/>
+  <rect x="0" y="0" width="180" height="180" fill="#1a2840"/>
+  <circle cx="90" cy="90" r="40" fill="#4BC4B8" opacity="0.3"/>
+  <text x="90" y="100" font-size="32" font-weight="bold" text-anchor="middle" fill="#4BC4B8" font-family="system-ui,sans-serif">Wars</text>
+  <rect x="16" y="200" width="148" height="8" rx="4" fill="#FFC84D"/>
+  <rect x="16" y="220" width="100" height="6" rx="3" fill="#C7D0DE"/>
+  <rect x="16" y="234" width="80" height="6" rx="3" fill="#C7D0DE" opacity="0.6"/>
+</svg>

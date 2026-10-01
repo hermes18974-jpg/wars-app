@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbooking\u002F[code]","\u002Fmovie\u002F[slug]","\u002Fshow\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
